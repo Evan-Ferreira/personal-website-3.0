@@ -359,5 +359,22 @@ export const photos: LifePhoto[] = [
         ],
         "description": "Lands End Lookout #2",
         "alt": "Lands End Lookout #2"
+    },
+    {
+        "base": "/life/life-20260813-ue6j38",
+        "widths": [
+            640,
+            1024,
+            1680
+        ],
+        "width": 1680,
+        "height": 1260,
+        "blurDataURL": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAAAwAgCdASoQAAwAA4BaJbACdADp/mKszemTwADMVTzAtBlL75DnOukwPWjrFNfxIAwhlzVAsC4yzD3JXRbR/tNpyG1p2KbDWOzfIJ1iyeolJbfpwv+zDIAA",
+        "tags": [
+            "San Francisco",
+            "Nature"
+        ],
+        "description": "Yosemite #6 - Post Upper Falls trail watering hole",
+        "alt": "Yosemite #6 - Post Upper Falls trail watering hole"
     }
 ];
