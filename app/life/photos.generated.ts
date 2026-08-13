@@ -359,5 +359,22 @@ export const photos: LifePhoto[] = [
         ],
         "description": "Lands End Lookout #2",
         "alt": "Lands End Lookout #2"
+    },
+    {
+        "base": "/life/life-20260813-dxsdjx",
+        "widths": [
+            640,
+            1024,
+            1680
+        ],
+        "width": 1680,
+        "height": 1260,
+        "blurDataURL": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAABwAQCdASoQAAwAA4BaJZwAAhhI0AD+pofDHwWNZuUDrP2sJV7Dqkwp2pE+CibL5DgOg0/B/SUp4q+gT7PJUUcW+9eovR81DSfEJSzD9qjQPAAA",
+        "tags": [
+            "San Francisco",
+            "Nature"
+        ],
+        "description": "Yosemite #2 - North Dome Trail",
+        "alt": "Yosemite #2 - North Dome Trail"
     }
 ];
