@@ -359,5 +359,22 @@ export const photos: LifePhoto[] = [
         ],
         "description": "Lands End Lookout #2",
         "alt": "Lands End Lookout #2"
+    },
+    {
+        "base": "/life/life-20260813-lzw4qk",
+        "widths": [
+            640,
+            1024,
+            1680
+        ],
+        "width": 1680,
+        "height": 1260,
+        "blurDataURL": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAADwAQCdASoQAAwAA4BaJbACdACvdHd3DgAA9W2tZ2DtN9GmU57cNkQQcRZa9LrmqndfF1yMZv1WGM992MPhWO3lE2clLB0trvOJKredAAA=",
+        "tags": [
+            "San Francisco",
+            "Nature"
+        ],
+        "description": "Yosemite #7 - Camp Site 4",
+        "alt": "Yosemite #7 - Camp Site 4"
     }
 ];
