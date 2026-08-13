@@ -167,5 +167,13 @@ export const photos: PhotoInput[] = [
             "Nature"
         ],
         "description": "Lands End Lookout #2"
+    },
+    {
+        "file": "life-20260813-z4bim6.jpg",
+        "tags": [
+            "San Francisco",
+            "Nature"
+        ],
+        "description": "Yosemite #3 - North Dome Trail"
     }
 ];
