@@ -359,5 +359,22 @@ export const photos: LifePhoto[] = [
         ],
         "description": "Lands End Lookout #2",
         "alt": "Lands End Lookout #2"
+    },
+    {
+        "base": "/life/life-20260813-aqgtdo",
+        "widths": [
+            640,
+            1024,
+            1680
+        ],
+        "width": 1680,
+        "height": 1260,
+        "blurDataURL": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAAAQAgCdASoQAAwAA4BaJYgCdAEOOzZgbCQAAP7xH20SSdnnnSTwQ9hxOgSLfqv7UodjsJQ7Tr5AgZA1QIJJuLQamrJhG/Fk6KFs6nL/LIva3GXAAAA=",
+        "tags": [
+            "San Francisco",
+            "Nature"
+        ],
+        "description": "Yosemite #5 - Campfire w/ Audrey",
+        "alt": "Yosemite #5 - Campfire w/ Audrey"
     }
 ];
