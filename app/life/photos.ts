@@ -167,5 +167,13 @@ export const photos: PhotoInput[] = [
             "Nature"
         ],
         "description": "Lands End Lookout #2"
+    },
+    {
+        "file": "life-20260813-ue6j38.jpg",
+        "tags": [
+            "San Francisco",
+            "Nature"
+        ],
+        "description": "Yosemite #6 - Post Upper Falls trail watering hole"
     }
 ];
