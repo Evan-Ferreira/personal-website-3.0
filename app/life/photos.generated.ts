@@ -359,5 +359,22 @@ export const photos: LifePhoto[] = [
         ],
         "description": "Lands End Lookout #2",
         "alt": "Lands End Lookout #2"
+    },
+    {
+        "base": "/life/life-20260813-x7qsjn",
+        "widths": [
+            640,
+            1024,
+            1680
+        ],
+        "width": 1680,
+        "height": 1260,
+        "blurDataURL": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAwAgCdASoQAAwAA4BaJZACdAEDWP7x7DvwAADN5/VP4/nByN2qNiO/drLU+jydlXT4Lncg3AF+wn/ihpp80zJRMxCHZiaxaqc3oTGjsiMeBLl4Qbj/UskaYAA=",
+        "tags": [
+            "San Francisco",
+            "Nature"
+        ],
+        "description": "Yosemite #4 - Upper Falls trail, The Valley",
+        "alt": "Yosemite #4 - Upper Falls trail, The Valley"
     }
 ];

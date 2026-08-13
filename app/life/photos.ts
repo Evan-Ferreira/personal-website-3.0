@@ -167,5 +167,13 @@ export const photos: PhotoInput[] = [
             "Nature"
         ],
         "description": "Lands End Lookout #2"
+    },
+    {
+        "file": "life-20260813-x7qsjn.jpg",
+        "tags": [
+            "San Francisco",
+            "Nature"
+        ],
+        "description": "Yosemite #4 - Upper Falls trail, The Valley"
     }
 ];
