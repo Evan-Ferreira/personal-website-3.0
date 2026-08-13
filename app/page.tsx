@@ -60,7 +60,7 @@ export default async function Home() {
             </p>
             <p>Some interesting things I’ve worked on:</p>
             <ul className="list-disc ml-4">
-                <li>JAJA Labs(in progress)</li>
+                <li>JAJA Labs (in progress)</li>
                 <li>Local Reach (acquired)</li>
                 <li>inQUbate</li>
                 <li>Stumble</li>
